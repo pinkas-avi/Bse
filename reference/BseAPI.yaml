@@ -6,6 +6,10 @@ info:
   version: 1.0.0
   summary: Bright Source Energy - Practicing Design First API Approach
   description: 'Detailed Description: Bright Source Energy - Practicing Design First API Approach'
+  contact:
+    name: Avi Pinkas
+  license:
+    name: MIT
 servers:
   - url: 'http://localhost:3000'
 paths:
