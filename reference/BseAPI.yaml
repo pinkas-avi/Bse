@@ -4,6 +4,12 @@ x-stoplight:
 info:
   title: BseAPI
   version: 1.0.0
+  summary: Bright Source Energy - Practicing API Design First Approach
+  description: Detailed description - Bright Source Energy - Practicing API Design First Approach
+  contact:
+    name: Av Pinkas
+  license:
+    name: MIT
 servers:
   - url: 'http://localhost:3000'
 paths:
